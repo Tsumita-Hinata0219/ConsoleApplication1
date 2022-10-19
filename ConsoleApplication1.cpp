@@ -5,13 +5,8 @@
 
 int main()
 {
-    std::cout << "I need some holiday,\n";
-
-    std::cout << "But I don't wish that everyday is holiday\n";
-
-    std::cout << "Because it wasn't bear the pain\n";
-
-    std::cout << "Because it wasn't a true freedom\n";
+    std::cout << "Hello Git World\n";
+    std::cout << "Hello MasterBranch\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
